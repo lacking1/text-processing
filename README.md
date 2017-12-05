@@ -1,2 +1,1 @@
-# Coursera_Andrew-Ng_ML
-There are my homework by Octave!
+Some ways to process easy text
